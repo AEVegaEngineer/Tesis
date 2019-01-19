@@ -1,0 +1,26 @@
+Capitulo II 
+Marco referencial
+
+desglosar el contenido
+autor y año
+
+Teorías genéricas explicativas
+Conceptos afines: procesos productivos
+
+Antecedentes de campo:
+	3-5, 4 años de vigencia, del 2015 en adelante, metodologías afines, copiar el resumen del proyecto <- esto va en referencias bilbiográficas
+	Ej.
+	Perez, E. (2015). Presentó su trabajo titulado xxxx para optar por el título de xxxxx en la universidad xxxx. 
+	<<copiar resumen>>
+	Aporte a la Investigación
+	<<explicar en qué se parecen>>
+
+Estado del arte de la tecnología
+	Avances tecnológicos actuales y que tengan relación con mi proyecto
+
+Teorías Genéricas Ingenieriles
+	php, html, javascript, etc.
+
+Definición de Términos Básicos
+	minimo 3 lineas
+	acrónimos y siglas que el usuario no pueda entender fácilmente
